@@ -1,0 +1,1 @@
+# djangocruds
