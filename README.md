@@ -1,2 +1,2 @@
-#django cruds
-
+#django
+# django crud 
